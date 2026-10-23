@@ -25,7 +25,7 @@ HTML, CSS and vanilla JavaScript (canvas animations, `localStorage`, Progressive
 
 ## Run it online with GitHub Pages
 
-In the repository go to **Settings → Pages**, choose the `main` branch and the root folder, then save. The page will be available at `https://GrandMaster-samer.github.io/<repository-name>/`.
+In the repository go to **Settings → Pages**, choose the `main` branch and the root folder, then save. The page will be available at `https://GrandMaster-samer.github.io/workout-tracker/`.
 
 ## Files
 
